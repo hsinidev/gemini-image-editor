@@ -13,7 +13,7 @@ Designed with a user-friendly interface, immersive galaxy aesthetics, and optimi
 ## 🚀 Live Demo
 
 Check out the live application here:  
-<a href="https://doodax.com" target="_blank">**🚀 LIVE DEMO (doodax.com)**</a>
+<a href="https://doodax.com/tools/gemini-image-editor/index.html" target="_blank">**🚀 LIVE DEMO (doodax.com)**</a>
 
 ## ✨ Features
 
